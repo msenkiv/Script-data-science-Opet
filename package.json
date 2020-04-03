@@ -1,0 +1,23 @@
+{
+  "name": "Script-data-science-Opet",
+  "version": "1.0.0",
+  "description": "Script para tratamento inicial de dados imobiliarios",
+  "main": "script.js",
+  "scripts": {
+    "start": "npm i && node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msenkiv/Script-data-science-Opet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msenkiv/Script-data-science-Opet/issues"
+  },
+  "homepage": "https://github.com/msenkiv/Script-data-science-Opet#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
